@@ -1,0 +1,105 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2351 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(Rivergate Flood Resilience Brief) Tj
+T*
+(Source ID: rivergate_flood_resilience) Tj
+T*
+() Tj
+T*
+(This fictional city brief was created for teaching RAG retrieval and evaluation.) Tj
+T*
+() Tj
+T*
+(Rivergate is a fictional river city with low neighborhoods along the Alder River. The city) Tj
+T*
+(council identifies spring floods, storm surge from the lower basin, and overloaded drainage) Tj
+T*
+(pipes as the main climate risks. The highest exposure is in Alder Quay, Millbank, and the) Tj
+T*
+(Canal View senior housing area.) Tj
+T*
+() Tj
+T*
+(The first priority is a blue-green corridor east of Millbank. The plan restores 18 hectares of) Tj
+T*
+(wetlands and reconnects two old side channels to slow flood water before it reaches homes.) Tj
+T*
+(Engineers expect the corridor to reduce peak water levels during medium floods and create) Tj
+T*
+(temporary storage during heavy rain.) Tj
+T*
+() Tj
+T*
+(Rivergate will also install removable flood barriers along Alder Quay. The barriers are not) Tj
+T*
+(permanent walls. They are stored near the quay and deployed when the river forecast crosses) Tj
+T*
+(the orange alert threshold. The city chose removable barriers because businesses wanted daily) Tj
+T*
+(access to the waterfront.) Tj
+T*
+() Tj
+T*
+(The monitoring program adds 42 smart river gauges and rain sensors. The gauges report water) Tj
+T*
+(level, flow speed, and blocked drain warnings every 10 minutes. Emergency managers use this) Tj
+T*
+(data to decide when to close the quay road and when to open evacuation route R-3 toward North) Tj
+T*
+(Hill School.) Tj
+T*
+() Tj
+T*
+(The social vulnerability section gives special attention to Canal View senior housing. During) Tj
+T*
+(high flood alerts, volunteers check ground-floor apartments, arrange accessible transport, and) Tj
+T*
+(move medicine storage to the second floor community room. The plan says that flood protection) Tj
+T*
+(is not successful if vulnerable residents cannot act on warnings.) Tj
+T*
+() Tj
+T*
+(Phase one has a budget of 7.8 million city credits over three years. The target is to keep the) Tj
+T*
+(community center, the clinic, and the main grocery store dry during a 1-in-50-year river) Tj
+T*
+(flood. The plan does not claim to remove all risk. It aims to reduce damage, improve warning) Tj
+T*
+(time, and make evacuation decisions easier.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2716
+%%EOF

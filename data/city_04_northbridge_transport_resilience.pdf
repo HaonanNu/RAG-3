@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2775 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(Northbridge Transport Resilience Brief) Tj
+T*
+(Source ID: northbridge_transport_resilience) Tj
+T*
+() Tj
+T*
+(This fictional city brief was created for teaching RAG retrieval and evaluation.) Tj
+T*
+() Tj
+T*
+(Northbridge is a fictional regional transport hub with trams, buses, and a central rail) Tj
+T*
+(station. Extreme rain, heat, and power disruption are the main climate risks for the network.) Tj
+T*
+(The most fragile points are Central Underpass, the Riverside tram depot, and the hospital bus) Tj
+T*
+(corridor.) Tj
+T*
+() Tj
+T*
+(The transport plan installs new pumps and water sensors at Central Underpass. When water) Tj
+T*
+(reaches the first warning level, the traffic control room receives an automatic alert. If the) Tj
+T*
+(second warning level is reached, buses are diverted before cars are trapped. The city wants) Tj
+T*
+(the underpass closed early rather than late.) Tj
+T*
+() Tj
+T*
+(For the tram system, Northbridge will raise electrical cabinets at Riverside depot and inspect) Tj
+T*
+(overhead wires before heat waves. Shade canopies are planned for 18 exposed tram stops. These) Tj
+T*
+(canopies reduce passenger heat stress and protect ticket machines from direct sun. The city) Tj
+T*
+(treats passenger safety and equipment reliability as one problem.) Tj
+T*
+() Tj
+T*
+(Backup bus route B-12 is the core continuity measure. If tram service fails between Riverside) Tj
+T*
+(depot and the hospital district, B-12 connects the central station, the hospital, and two) Tj
+T*
+(large housing estates. The route is rehearsed twice per year so drivers know temporary stops) Tj
+T*
+(before an emergency.) Tj
+T*
+() Tj
+T*
+(Mobility access is a separate section, not an afterthought. Northbridge requires real-time) Tj
+T*
+(elevator status at the central station and accessible shuttle vans during major disruptions.) Tj
+T*
+(The plan says transport resilience fails if wheelchair users, older passengers, and parents) Tj
+T*
+(with strollers receive information too late to change plans.) Tj
+T*
+() Tj
+T*
+(The communications team will publish disruption messages in three levels: advisory, service) Tj
+T*
+(change, and emergency closure. Messages must name the affected line, the reason, the expected) Tj
+T*
+(duration if known, and the accessible alternative. The plan avoids vague phrases such as) Tj
+T*
+(severe weather disruption without practical instructions.) Tj
+T*
+() Tj
+T*
+(The first-year budget is 5.1 million city credits. The main success measures are fewer) Tj
+T*
+(weather-related service hours lost, faster underpass closure decisions, and better passenger) Tj
+T*
+(satisfaction during disruptions. Northbridge expects some service interruptions to remain, but) Tj
+T*
+(it wants them to be shorter, clearer, and less dangerous.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3140
+%%EOF

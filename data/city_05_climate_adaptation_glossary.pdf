@@ -1,0 +1,125 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3046 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(Cross-City Climate Adaptation Glossary) Tj
+T*
+(Source ID: climate_adaptation_glossary) Tj
+T*
+() Tj
+T*
+(This fictional city brief was created for teaching RAG retrieval and evaluation.) Tj
+T*
+() Tj
+T*
+(This fictional glossary supports comparison across the Rivergate, Sunford, Lakemont, and) Tj
+T*
+(Northbridge adaptation briefs. It defines recurring terms that students may encounter when) Tj
+T*
+(evaluating retrieval results. The glossary is not a complete climate textbook. It is a compact) Tj
+T*
+(reference for the exercise.) Tj
+T*
+() Tj
+T*
+(Climate adaptation means changing systems so they can handle climate impacts that are already) Tj
+T*
+(happening or likely to happen. Flood barriers, cooling centers, green roofs, and backup bus) Tj
+T*
+(routes are adaptation measures. Climate mitigation means reducing the causes of climate) Tj
+T*
+(change, for example by lowering greenhouse gas emissions.) Tj
+T*
+() Tj
+T*
+(Heat mitigation and heat response are related but different. Heat mitigation reduces heat) Tj
+T*
+(before an emergency, such as shade trees, cool roofs, and reflective surfaces. Heat response) Tj
+T*
+(protects people during an active heat event, such as cooling centers, water distribution, and) Tj
+T*
+(wellness checks.) Tj
+T*
+() Tj
+T*
+(Nature-based solutions use natural processes to reduce risk. Rivergate's wetland restoration,) Tj
+T*
+(Sunford's shade trees, and Lakemont's rain gardens are examples. Nature-based solutions can) Tj
+T*
+(provide extra benefits such as cleaner water, habitat, and cooler streets, but they still) Tj
+T*
+(require maintenance and monitoring.) Tj
+T*
+() Tj
+T*
+(Social vulnerability describes how climate risk is shaped by age, income, disability, health,) Tj
+T*
+(housing, language access, and transport options. A flood warning is less useful if a resident) Tj
+T*
+(cannot leave without help. A heat alert is less useful if a worker cannot change schedule or) Tj
+T*
+(reach a cooling center.) Tj
+T*
+() Tj
+T*
+(Resilience does not mean that nothing fails. In these briefs, resilience means that failures) Tj
+T*
+(are less likely, warnings arrive earlier, damage is smaller, and recovery is faster.) Tj
+T*
+(Northbridge may still lose tram service during a severe storm, but backup route B-12 can keep) Tj
+T*
+(essential trips moving.) Tj
+T*
+() Tj
+T*
+(Evaluation questions should usually name an expected source. A flood question is often) Tj
+T*
+(answered by Rivergate. A heat-health question is often answered by Sunford. A green roof or) Tj
+T*
+(permeable pavement question is often answered by Lakemont. A transport disruption question is) Tj
+T*
+(often answered by Northbridge. A definition question is often answered by this glossary.) Tj
+T*
+() Tj
+T*
+(Good RAG answers should stay grounded in retrieved context. If the context does not contain) Tj
+T*
+(the answer, the system should say that it does not know based on the provided documents. This) Tj
+T*
+(matters because confident unsupported answers are harder to detect than simple retrieval) Tj
+T*
+(failures.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3411
+%%EOF
